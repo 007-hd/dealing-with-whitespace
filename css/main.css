@@ -16,7 +16,7 @@ body {
 }
 
 article {
-  border-bottom: 1px solid #555; /* rule at bottom of page */
+  border-bottom: .75px solid #555; /* rule at bottom of page */
   margin-bottom: 20.8px;
 }
 
@@ -35,7 +35,7 @@ article h1 {
 article header p {
   font-style: italic;
   color: #222;
-  border-bottom: 1px solid #555; /* rule a top of page */
+  border-bottom: .75px solid #555; /* rule a top of page */
   padding-bottom: 20.8px;
   padding-top: 1px;
   margin-bottom: 1em;
