@@ -15,11 +15,31 @@ h1 {
 h1 + p {
   font-size: 1.125rem;
   font-style: italic;
-  color: #555;
+  color: #222;
   margin-top: .125rem;
 }
 
 div {
-  border-top: 1px solid #999;
-  border-bottom: 1px solid #999;
+  border-top: 2px solid #999;
+  border-bottom: 2px solid #999;
+}
+
+p {
+  color: #222;
+}
+
+blockquote {
+  font-size: 1.125rem;
+}
+
+span.quote {
+  color: #999;
+}
+
+blockquote > p {
+  color: #555;
+}
+
+ol {
+  margin-left: -1.5rem;
 }
